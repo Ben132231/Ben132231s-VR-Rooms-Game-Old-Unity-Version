@@ -27,5 +27,9 @@ If you don't know how. heres a Unity Docummentation on how to do that.
 
 https://docs.unity3d.com/Manual/android-keystore-create.html
 
+# License
+
+This project is under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)
+
 #
 ![](ReadMeImages/Ben132231s-Games-Logo.png)
