@@ -1,7 +1,11 @@
 # ![](ReadMeImages/Game-Title.png)
 
 [![Download Project](https://img.shields.io/badge/Download%20Project-darkgreen.svg)](https://github.com/Ben132231/Ben132231s-VR-Rooms-Game-Open-Source/releases)
-[![Game Link](https://img.shields.io/badge/Game%20Link-darkgreen.svg)](https://ben132231.itch.io/ben132231s-vr-rooms-game)
+[![Game Link](https://img.shields.io/badge/Game%20Link-darkgreen.svg)](https://ben132231.itch.io/ben132231s-vr-rooms-game-old)
+
+(This project is the old Unity version of the game and will not be updated)
+
+(Updated version : TBA)
 
 This is the open source project for Ben132231's VR Rooms Game.
 
