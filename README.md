@@ -29,7 +29,7 @@ https://docs.unity3d.com/Manual/android-keystore-create.html
 
 # License
 
-This project is under CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)
+This project is under CC0 1.0 Universal. (https://creativecommons.org/publicdomain/zero/1.0/)
 
 #
 ![](ReadMeImages/Ben132231s-Games-Logo.png)
