@@ -8,11 +8,11 @@ Inspiration
 
 Credits
 	Roblox Creator Marketplace / Interminable Rooms Wiki - For some sounds like
-		1. Locker Open/Close Audio - https://create.roblox.com/store/asset/9116646197/
-		2. Table (TODO : Find audio source)
+		1. Locker Open/Close Audio - https://www.prosoundeffects.com/sound-effects/PSE_ODY3/rYE95/metal-hinge-open-locker-series-of-squeaks
+		2. Table - https://www.prosoundeffects.com/sound-effects/PSE_ODY3/pUACd/wood-drop-boards-planks-falling-to-ground
 		3. Door - https://create.roblox.com/store/asset/5037969255/ (May not be original source. I don't know though.)
-		4. Locker Breaking (TODO : Find audio source)
-		5. Metal Door Keycard Decline Sound (TODO : Find audio source)
+		4. Locker Breaking - https://www.prosoundeffects.com/sound-effects/PSE_ODY3/RrYMH/shield-clang-as-hit-metal-sword-hubcap
+		5. Metal Door Keycard Decline Sound (I gave up finding the source)
 	Toby Fox/Undertale/Deltarune - Some sound effect, mus_smile, funny explosion sprites and audio
 
 Freesound.org Credits
